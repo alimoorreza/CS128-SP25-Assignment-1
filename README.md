@@ -1,7 +1,6 @@
-# CS128-SP25-Assignment-1
+# CS128-SP25-Assignment-1: Rigid body motion
 
-Please, 
-Please submit your responses using one of the following three methods:
+In this assignment, you will be doing matrix, vector calculations, and rigid body transformations. Please review the assignment details in the provided PDF document and submit your responses using one of the following three methods:
 
  * Print the pdf version of the assignment and write your answers directly on that physical paper.
  * Write your answers on separate blank sheets of paper.
